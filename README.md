@@ -3,7 +3,7 @@
 [![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/zheleznikov/zheleznikov/blob/main/readme.ru.md)
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/zheleznikov/zheleznikov/blob/main/README.md)
 
-### I'm trying to do backend and frontend
+### I do backend and frontend
 
 - currently working at Sber as full-stack developer
 - involved as mentor at Yandex.Practicum on course <b>['web for kids'](https://yandex.ru/project/futurecode)</b>

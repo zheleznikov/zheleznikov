@@ -8,6 +8,7 @@
 - currently working at Sber as full-stack developer
 - involved as mentor at Yandex.Practicum on course <b>['web for kids'](https://yandex.ru/project/futurecode)</b>
 - from time to time I'm a blogger. [Solving problems and explaining how I've done it](https://www.youtube.com/@hello-zhele)
+- you could [see my full CV here](https://hh.ru/resume/b3a35031ff00f958d40039ed1f677646736572)
 
 ### I use daily
 ![JS](./icons/js.svg)

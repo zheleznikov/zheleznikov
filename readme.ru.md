@@ -1,7 +1,7 @@
 # Привет, я Сергей 👋
 
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](./readme.ru.md)
-[![en](https://img.shields.io/badge/lang-en-green.svg)](./readme.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/zheleznikov/zheleznikov/blob/main/readme.ru.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/zheleznikov/zheleznikov/blob/main/README.md)
 
 ### Делаю фронтенд и бэкенд
 

@@ -12,11 +12,8 @@
 
 ### I use daily:
 ![JS](./icons/js.svg)
-
 ![react](./icons/react.svg)
-
 ![java](./icons/java.svg)
-
 ![spring](./icons/spring.svg)
 
 ##### 💬 You could contact me:

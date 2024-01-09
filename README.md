@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Sergey 👋
 
-<!--
-**zheleznikov/zheleznikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](./readme.ru.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](./readme.md)
 
-Here are some ideas to get you started:
+### I'm trying to do backend and frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- currently working at Sber as full-stack developer
+- involved as mentor at Yandex.Practicum on course <b>['web for kids'](https://yandex.ru/project/futurecode)</b>
+- from time to time I'm a blogger. [Solving problems and explaining how I've done it](https://www.youtube.com/@hello-zhele)
+
+### I use daily
+![JS](./icons/js.svg)
+![react](./icons/react.svg)
+![java](./icons/java.svg)
+![spring](./icons/spring.svg)
+
+##### 💬 You could contact me:
+- in [telegram](https://t.me/zheleznikov)
+- or [linkedin](https://www.linkedin.com/in/sergey-zheleznikov)
+
+
+
+
+

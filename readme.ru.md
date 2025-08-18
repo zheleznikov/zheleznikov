@@ -6,9 +6,10 @@
 ### Делаю фронтенд и бэкенд
 
 - работаю фулстеком в Сбере
-- работаю наставником в Яндекс.Практикуме на курсе <b>['веб для подростков'](https://yandex.ru/project/futurecode)</b>
-- иногда бываю блогером. [Решаю алгоритмические задачи](https://www.youtube.com/@hello-zhele)
+- работал наставником в Яндекс.Практикуме на курсе <b>[WEB 4 KIDS](https://yandex.ru/project/futurecode)</b> и в Хекслете на курсе <b>[JAVA 4 DEVS](https://ru.hexlet.io/programs/java)</b>
+- У меня есть пет-проект [калькулятор для мыловаров sava savon](https://savasavon.com). Вы можете [посмотреть код здесь](https://github.com/zheleznikov/sava-savon/)
 - вы можете [познакомиться с моим резюме по ссылке](https://hh.ru/resume/b3a35031ff00f958d40039ed1f677646736572)
+
 
 ### В работе использую
 ![JS](./icons/js.svg)

@@ -5,8 +5,8 @@
 ### I do backend and frontend
 
 - currently working at Sber as full-stack developer
-- used to be a mentor at Yandex.Practicum on course <b>['web for kids'](https://yandex.ru/project/futurecode)</b> and at Hexlet on course <b>['Java for developers']([https://yandex.ru/project/futurecode](https://ru.hexlet.io/programs/java)</b>
-- have a pet-project sava savon - soap calculator. You could <b>['see the result'](https://savasavon.com)</b>
+- used to be a mentor at Yandex.Practicum on course <b>[WEB 4 KIDS](https://yandex.ru/project/futurecode)</b> and at Hexlet on course <b>[JAVA 4 DEVS](https://ru.hexlet.io/programs/java)</b>
+- have a pet-project [sava savon - soap calculator](https://savasavon.com). You could [see the code here](https://github.com/zheleznikov/sava-savon/)
 - you could [see my full CV here](https://hh.ru/resume/b3a35031ff00f958d40039ed1f677646736572)
 
 #
